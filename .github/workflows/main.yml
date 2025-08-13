@@ -1,8 +1,5 @@
 name: Generate Datas
 on:
-  push:
-    branch:
-      -main
   permissions:
     contents: write
   schedule: # execute every 12 hours
