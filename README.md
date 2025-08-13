@@ -56,19 +56,16 @@ console.log('Hello World! 👋');
             <img src="https://github-profile-trophy.vercel.app/?username=DEVwmauriciu&theme=tokyonight&row=1&column=6" />
         </a>
     </p>
-    <p>
+    <p style="display: flex; justify-content: flex-start; align-items: center;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=DEVwmauriciu&show_icons=true&theme=tokyonight">
+            <img src="https://github-readme-stats.vercel.app/api?username=DEVwmauriciu&show_icons=true&theme=tokyonight" style="display: inline-block; width: 50%; vertical-align: middle;">
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVwmauriciu&layout=pie&theme=tokyonight" style="display: inline-block; width: 50%; vertical-align: middle;">
         </a>
     </p>
-    <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVwmauriciu&layout=pie&theme=tokyonight"/>
-        </a>
-    </p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+      <img alt="github-snake" src="github-user-contribution.svg" />
+    </picture>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
