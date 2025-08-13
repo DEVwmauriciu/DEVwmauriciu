@@ -67,4 +67,4 @@ console.log('Hello World! 👋');
         </a>
     </p>
 </div>
-![Snake animation](https://github.com/DEVwmauriciu/DEVwmauriciu/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/DEVwmauriciu/DEVwmauriciu/blob/output/github-contribution-grid-snake.svg"/>
