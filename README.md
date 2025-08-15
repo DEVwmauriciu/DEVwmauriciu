@@ -53,20 +53,20 @@ console.log('Hello World! 👋');
     <h2>📊 GitHub Stats</h2>
     <p>
         <a>
-            <img src="https://github-profile-trophy.vercel.app/?username=DEVwmauriciu&theme=tokyonight&row=1&column=6" />
+            <img src="https://github-profile-trophy.vercel.app/?username=DEVwmauriciu&theme=onedark&row=1&column=7" />
         </a>
     </p>
     <p style="display: flex; justify-content: flex-start; align-items: center;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=DEVwmauriciu&show_icons=true&theme=tokyonight" style="display: inline-block; width: 50%; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api?username=DEVwmauriciu&show_icons=true&theme=onedark" style="display: inline-block; width: 50%; vertical-align: middle;">
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVwmauriciu&layout=pie&theme=tokyonight" style="display: inline-block; width: 50%; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVwmauriciu&layout=pie&theme=onedark&show_icons=true" style="display: inline-block; width: 50%; vertical-align: middle;">
         </a>
     </p>
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEVwmauriciu"/>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEVwmauriciu&theme=onedark&show_icons=true"/>
         </a>
     </p>
     <picture>
