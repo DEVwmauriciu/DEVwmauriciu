@@ -64,6 +64,11 @@ console.log('Hello World! 👋');
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVwmauriciu&layout=pie&theme=tokyonight" style="display: inline-block; width: 50%; vertical-align: middle;">
         </a>
     </p>
+    <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEVwmauriciu"/>
+        </a>
+    </p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
       <img alt="github-snake" src="github-user-contribution.svg" />
