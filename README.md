@@ -8,10 +8,10 @@ console.log('Hello World! 👋');
         Olá, me chamo Maurício e atualmente estou me aperfeiçoando na linguagem Java com o framework Spring.
     </p>
     <p align="left">
-        Estou concluindo formação técnica em Desenvolvimento de Sistemas através do programa <a href="https://secti.es.gov.br/bolsa-tecnica" target="_blank">Bolsa Técnica</a> que integra o Sistema Universidade do Espírito Santo – <a href="https://universidades.es.gov.br" target="_blank">UniversidadES</a>, ofertado pela Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional.
+        No ensino técnico, concluí o curso Desenvolvimento de Sistemas através do programa <a href="https://secti.es.gov.br/bolsa-tecnica" target="_blank">Bolsa Técnica</a> que integra o Sistema Universidade do Espírito Santo – <a href="https://universidades.es.gov.br" target="_blank">UniversidadES</a>, ofertado pela Secretaria da Ciência, Tecnologia, Inovação e Educação Profissional.
     </p>
     <p align="left">
-        Já na graduação, estou no 3° período do curso <a href="https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet" target="_blank">Tecnologia em Sistemas para Internet - EAD</a>, ofertado pelo Instituto Federal do Espírito Santo - <a href="https://serra.ifes.edu.br" target="_blank">IFES Campus Serra</a> com fomento da UnAC - Universidade Aberta Capixaba. A UnAC faz parte do Sistema UniversidadES, criada pelo Governo do Estado do Espírito Santo.
+        Já na graduação, estou no 3° período do curso <a href="https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet" target="_blank">Tecnologia em Sistemas para Internet - EAD</a>, ofertado pelo Instituto Federal do Espírito Santo - <a href="https://serra.ifes.edu.br" target="_blank">IFES Campus Serra</a> com fomento da UnAC (Universidade Aberta Capixaba), que faz parte do Sistema UniversidadES, criada pelo Governo do Estado do Espírito Santo.
     </p>
     <p align="left"></p>
     <p align="left">☕ Estudando sobre Java;</p>
